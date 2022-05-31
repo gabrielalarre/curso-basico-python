@@ -2,7 +2,7 @@
 
 En este curso aprenderás a programar en Python.
 
-![Logo de Python](Imagenes\Python-120.png)
+![Logo de Python](https://github.com/gabrielalarre/curso-basico-python/blob/main/Imagenes/Python-120.png)
 
 **Requisitos**
 - Python 3.6 o superior
